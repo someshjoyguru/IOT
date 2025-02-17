@@ -1,0 +1,43 @@
+https://www.youtube.com/watch?v=qLVocIy6XjI
+
+curl -fsSL https://ollama.com/install.sh | sh
+ollama run tinydolphin
+
+
+https://www.youtube.com/watch?v=6NCjTof5snk
+
+microSD card 32 gb
+usb card reader
+
+raspberry pi imager
+ansible
+GIT
+
+Bluetooth Device
+https://www.youtube.com/watch?v=PhWnZG-xhqY
+
+
+Audio test:
+arecord -d 5 test.wav
+aplay test.wav
+
+hello my name is Somesh ghosh and i am learning raspberry pi
+
+
+Enter your text: I am Somesh, I have end semester exams, vivas, projects, and IoT and embedded electronics topics to learn.
+Enter your text: What do I have to study?
+Based on the context, you have to study:
+
+IoT
+Embedded Electronics
+Topics for end semester exams, vivas, and projects Enter your text: What exams do I have? The answer based on the provided context is:
+"end semester exams"
+
+I don't know about any other details regarding the exams.
+Enter your text: Can you tell me the capital of India?
+I don't know. The context does not provide any information about the capital of India.
+
+You: I have a meeting from 5 pm to 7 pm about our project.
+Assistant: Assistant: Got it! Storing it in my memory.
+You: can you tell me when do i have meeting?    
+Assistant: Assistant:  I don't know. Please provide more context or specify which part of your question requires an answer.
